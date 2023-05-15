@@ -1,0 +1,50 @@
+:root {
+  background: purple;
+}
+
+html {
+  max-width: 720px;
+
+  background: blue;
+}
+
+body {
+  background: #fff;
+}
+
+* {
+  color:red
+}
+
+.box {
+  background: #493b3b;
+}
+
+#user,
+.user {
+  color: rgb(69, 16, 194);
+}
+
+.button {
+  background: #f30a0a;
+}
+
+div > p {
+  color: chartreuse;
+}
+
+footer > .user {
+  color: chocolate;
+}
+
+footer  em {
+  color: chocolate;
+}
+
+.card-dark {
+  background: #fafcf6;
+}
+
+.item {
+  color: brown;
+}

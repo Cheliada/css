@@ -1,7 +1,7 @@
-html {
-  max-width: 720px;
+.card > p {
+    color: #0500FF;
 }
 
-body {
-  background: #fff;
+* {
+    font-family: fantasy;
 }
